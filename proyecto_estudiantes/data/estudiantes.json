@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "Alexi",
+    "apellido": "Arteaga",
+    "email": "alexiarteaga@unemi.ec",
+    "carnet": "0",
+    "notas": {
+      "Fisica": [
+        10.0
+      ]
+    },
+    "materias": [
+      "Fisica"
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "1",
+    "apellido": "1",
+    "email": "1@unemi.ec",
+    "carnet": "1",
+    "notas": {},
+    "materias": []
+  }
+]
